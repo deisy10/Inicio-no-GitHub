@@ -1,2 +1,2 @@
-# Inicio-no-GitHub
-Desafio de projeto DIO, code girls. 
+# Inicio no GitHub
+Reposiorio desafio de projeto code girls DIO. 
